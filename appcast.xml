@@ -4,22 +4,22 @@
     <title>My App – Appcast</title>
 
     <item>
-      <title>Version 1.2.35 (Android)</title>
+      <title>Version 1.0.3 (Android)</title>
       <description>• Performance improvements </description>
-      <pubDate>Thu, 23 May 2026 14:05:00 +0000</pubDate>
+      <pubDate>Thu, 4 Jun 2026 13:05:00 +0000</pubDate>
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.awlyg.medrasti"
-        sparkle:version="1.2.35"
+        sparkle:version="1.0.3"
         sparkle:os="android" />
     </item>
 
     <item>
-      <title>Version 1.2.35 (iOS)</title>
+      <title>Version 1.0.3 (iOS)</title>
       <description>• Performance improvements </description>
-      <pubDate>Thu, 23 May 2026 14:05:00 +0000</pubDate>
+      <pubDate>Thu, 4 Jun 2026 13:05:00 +0000</pubDate>
       <enclosure
         url="https://apps.apple.com/us/app/graytna/id6730118219"
-        sparkle:version="1.2.35"
+        sparkle:version="1.0.3"
         sparkle:os="ios" />
     </item>
   </channel>
