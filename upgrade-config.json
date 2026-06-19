@@ -1,6 +1,6 @@
 {
-  "minVersion": "1.0.6",
-  "latestVersion": "1.0.6",
+  "minVersion": "1.0.8",
+  "latestVersion": "1.0.8",
   "forceOn": ["android","ios"],
-  "note": "Performance improvements - must update"
+  "note": "Correction du bug photo."
 }
