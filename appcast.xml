@@ -4,22 +4,22 @@
     <title>My App – Appcast</title>
 
     <item>
-      <title>Version 1.0.10 (Android)</title>
+      <title>Version 1.0.11 (Android)</title>
       <description>•Some Fixes.</description>
-      <pubDate>Tue, 4 jul 2026 18:22:00 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 20:20:00 +0000</pubDate>
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.awlyg.ramassage"
-        sparkle:version="1.0.10"
+        sparkle:version="1.0.11"
         sparkle:os="android" />
     </item>
 
     <item>
-      <title>Version 1.0.10 (iOS)</title>
+      <title>Version 1.0.11 (iOS)</title>
       <description>•Some Fixes.</description>
-      <pubDate>Tue, 4 jul 2026 18:22:00 +0000</pubDate>
+      <pubDate>Wed, 21 jul 2026 18:22:00 +0000</pubDate>
       <enclosure
         url=""
-        sparkle:version="1.0.10"
+        sparkle:version="1.0.11"
         sparkle:os="ios" />
     </item>
   </channel>
