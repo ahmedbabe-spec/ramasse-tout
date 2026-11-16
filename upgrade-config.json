@@ -1,6 +1,6 @@
 {
-  "minVersion": "1.0.12",
-  "latestVersion": "1.0.12",
+  "minVersion": "1.0.13",
+  "latestVersion": "1.0.13",
   "forceOn": ["android","ios"],
-  "note": "Some Fixes"
+  "note": "Vous pouvez désormais ajouter plusieurs photos à un incident."
 }

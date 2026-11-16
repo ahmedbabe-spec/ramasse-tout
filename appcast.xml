@@ -4,12 +4,12 @@
     <title>My App – Appcast</title>
 
     <item>
-      <title>Version 1.0.12 (Android)</title>
-      <description>•Some Fixes.</description>
-      <pubDate>Tue, 27 Oct 2026 18:40:00 +0000</pubDate>
+      <title>Version 1.0.13 (Android)</title>
+      <description>•Ajout de plusieurs photos par incident.</description>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.awlyg.ramassage"
-        sparkle:version="1.0.12"
+        sparkle:version="1.0.13"
         sparkle:os="android" />
     </item>
   </channel>
